@@ -1,0 +1,8 @@
+/com.exension.stocks.sdPlugin/sdplugin-stock*
+/vendor
+/DistributionTool.exe
+.DS_Store
+node_modules/
+*.log
+*.tmp
+*.bak
